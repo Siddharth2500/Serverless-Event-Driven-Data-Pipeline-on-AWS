@@ -2,12 +2,12 @@
 
 ![Pipeline Demo](https://media.tenor.com/LCJMufd4bDkAAAAi/satu-data-animation.gif)
 
-A fully working **serverless-style data pipeline** built entirely with **Python**, designed to run right inside **Google Colab** — no AWS account, no setup, and no edits required.
+A fully working **serverless-style data pipeline** built entirely with **Python**, designed to run right inside **Google Colab** - no AWS account, no setup, and no edits required.
 
 
 It behaves like an **AWS S3 → Lambda → DynamoDB → S3 (processed)** workflow but runs locally using folders and JSON files to emulate the cloud.
 
------
+------
 
 ## 🚀 Overview
 
