@@ -7,7 +7,7 @@ A fully working **serverless-style data pipeline** built entirely with **Python*
 
 It behaves like an **AWS S3 → Lambda → DynamoDB → S3 (processed)** workflow but runs locally using folders and JSON files to emulate the cloud.
 
--------------
+---------------
 
 ## 🚀 Overview
 
