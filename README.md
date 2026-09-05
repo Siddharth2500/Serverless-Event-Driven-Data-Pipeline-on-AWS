@@ -18,7 +18,7 @@ Whenever you drop a file (like `data.txt`) into the **`inbox/`** folder:
 
 All this happens in real time inside Colab — no dependencies, no cloud costs, no setup hassles.
 
----
+-----
 
 ## 🧱 Architecture
 
