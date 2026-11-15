@@ -51,7 +51,7 @@ All this happens in real time inside Colab — no dependencies, no cloud costs, 
 yaml
 Copy code
 
----
+-----
 
 ## 🧰 Tech Stack
 
